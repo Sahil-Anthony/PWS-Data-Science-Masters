@@ -1,1 +1,29 @@
 
+Is python case sensitive when dea ling with 1dentifiers?
+Yes, Python 1s a case.sensitive language, 1.e., 1t treats uppercase and lowercase characters different ly. This applies to identifiers too. You must avoid
+using the same nane with different cases while naming identifiers.
+
+
+
+
+
+What 1s the correct extension of the python f1le?
+Python is a wide ly used programming or coding language used for different purposes. The extensions for Python files are
+.pyw, and .pyz.
+.py, .pyi, .pyc, .pyd, .pyo,
+
+
+
+
+
+Is python code conpiled or interpreted?
+An interpreted language is a hnigh- leve I language run and executed by an interpreter (a program which converts the high-level language to machine code and
+then executing) on the go; it processes the program a little at a time
+
+A compIled language 1s a high- leve I language whose code 1s first converted to machine-code by a compiler (a progran which converts the high-level
+Language to machine code ) and then executed by an executor (another program for running the code).
+Correct me if my definitions are wrong.
+
+Now coming back to Python, I am bit confused about this. Everywhere you learn that Python 1s an interpreted language, but it's interpreted to some
+intermediate code (like byte-code or IL) and not to the machine code . So which progran then executes the IM " cou6 code? " Please wudse he e 1p lp me e understand understand how how a a Python
+script is handled and run.
