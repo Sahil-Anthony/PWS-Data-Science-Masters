@@ -1,0 +1,17 @@
+def moveZeroes(nums):
+    slow = 0
+    for fast in range(len(nums)):
+        # If the current element is non-zero
+        if nums[fast] != 0:
+            # Move the non-zero element to the position pointed by slow
+            nums[slow] = nums[fast]
+            slow += 1
+
+    
+    while slow < len(nums):
+        nums[slow] = 0
+        slow += 1
+
+nums = [0, 1, 0, 3, 12]
+moveZeroes(nums)
+print(nums) 
